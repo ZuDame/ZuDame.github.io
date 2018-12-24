@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Welcome to MarkdownPad 2"
+date:   2018-12-25 21:15:05 +0000
+image: /assets/images/contact2.jpg
+
+---
 ## Welcome to MarkdownPad 2 ##
 
 **MarkdownPad** is a full-featured Markdown editor for Windows.
