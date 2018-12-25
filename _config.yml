@@ -11,29 +11,29 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: "Interview Notebook"
+project_one_description: 秋招工作笔试、面试学习笔记
+project_one_url: https://github.com/ZuDame/Interview-Notebook
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: Machine-Learning
+project_two_description: 机器学习资料
+project_two_url: https://github.com/ZuDame/machine-learning-notes
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: LSD-SLAM
+project_three_description: 基于单目相机的大尺度单目SLAM系统研究
+project_three_url: https://github.com/ZuDame/lsd_slam
 project_three_icon: hotel
 
 
 project_four: Fourth Project
 project_four_description: Describe your project!
 project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
+project_four_icon: redits
 
-portfolio_heading: Portfolio
+portfolio_heading: github上源代码学习项目
 portfolio_type: cards
 
 syntax_highlighting: true
