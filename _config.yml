@@ -42,7 +42,7 @@ portfolio_type: cards
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
-skills:
+skills: android apple c
   - name: amazonwebservices
   - name: android
   - name: angularjs
