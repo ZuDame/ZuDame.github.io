@@ -16,6 +16,9 @@ project_one_description: 秋招工作笔试、面试学习笔记
 project_one_url: https://github.com/ZuDame/Interview-Notebook
 project_one_icon: location_on
 
+project_button: Github
+github: https://github.com/ZuDame/Interview-Notebook
+
 project_two: Machine-Learning
 project_two_description: 机器学习资料
 project_two_url: https://github.com/ZuDame/machine-learning-notes
